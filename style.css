@@ -86,6 +86,10 @@ main {
     align-items: center;
 }
 
+.square:hover {
+    cursor: pointer;
+}
+
 .square-easy {
     width: calc(100% / 10);
     height: calc(100% / 10);
